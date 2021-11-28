@@ -69,4 +69,8 @@
         android:id="@+id/about"
         android:title="@string/about"
         app:showAsAction="never"/>
+    <item
+        android:id="@+id/TestItem"
+        android:title="@string/TestItem"
+        app:showAsAction="never" />
 </menu>

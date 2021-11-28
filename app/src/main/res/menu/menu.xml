@@ -70,7 +70,7 @@
         android:title="@string/about"
         app:showAsAction="never"/>
     <item
-        android:id="@+id/TestItem"
-        android:title="@string/TestItem"
+        android:id="@+id/changes"
+        android:title="@string/changes"
         app:showAsAction="never" />
 </menu>

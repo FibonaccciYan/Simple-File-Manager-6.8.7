@@ -84,7 +84,16 @@
         <b>Reddit:</b>
         https://www.reddit.com/r/SimpleMobileTools
     </string>
-    <string name="TestItem">TestItem</string>
+
+    <!-- Changes -->
+    <string name="changes">Changes</string>
+    <string name="changes_description">
+        This is modified by FibonaccciYan.
+
+        <br>I add some changes to it, for example, set <b>add to/remove from favourite</b> always showed as action, and add <b>an changes Item</b> to lead you to this.</br>
+
+        <br>Hope you enjoy!</br>
+    </string>
 
     <!--
         Haven't found some strings? There's more at

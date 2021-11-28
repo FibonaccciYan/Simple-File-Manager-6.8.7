@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simple File Manager</string>
-    <string name="app_launcher_name">File Manager</string>
+    <string name="app_launcher_name">File Manager(FibonaccciYan)</string>
     <string name="press_back_again">Press back again to exit</string>
     <string name="go_to_home_folder">Go to home folder</string>
     <string name="set_as_home_folder">Set as home folder</string>
@@ -83,6 +83,16 @@
 
         <b>Reddit:</b>
         https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!-- Changes -->
+    <string name="changes">Changes</string>
+    <string name="changes_description">
+        This is modified by FibonaccciYan.
+
+        <br>I add some changes to it, for example, set <b>add to/remove from favourite</b> always showed as action, and add <b>an changes Item</b> to lead you to this.</br>
+
+        <br>Hope you enjoy!</br>
     </string>
 
     <!--

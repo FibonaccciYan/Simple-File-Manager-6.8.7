@@ -121,6 +121,7 @@ class MainActivity : SimpleActivity() {
             R.id.reduce_column_count -> fragment.reduceColumnCount()
             R.id.settings -> startActivity(Intent(applicationContext, SettingsActivity::class.java))
             R.id.about -> launchAbout()
+            R.id.changes -> startActivity(Intent(applicationContext, ChangesActivity::class.java))
             else -> return super.onOptionsItemSelected(item)
         }
         return true
